@@ -970,24 +970,10 @@ img.publication4{
 .public_text{
     float:left;
     vertical-align: center;
-    height: 100px;
+    height: auto;
 }
 
-@media screen and (max-width: 992px) {
-    .public_text{
-      float:left;
-      vertical-align: center;
-      height: auto;
-    }
 
-}
-
-@media screen and (max-width: 600px) {
-    .public_text{
-      float:left;
-      vertical-align: center;
-      height: auto;
-    }
 
 }
 
