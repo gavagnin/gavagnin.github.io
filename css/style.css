@@ -998,19 +998,19 @@ img.publication4{
 .public_text_students{
     float:left;
     vertical-align: center;
-    height: 50px;
+    height: auto;
 }
 
 .public_text_students_long{
     float:left;
     vertical-align: center;
-    height: 75px;
+    height: auto;
 }
 
 .public_text_students_extralong{
     float:left;
     vertical-align: center;
-    height: 160px;
+    height: auto;
 }
 
 /* footer
